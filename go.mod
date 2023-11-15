@@ -1,4 +1,4 @@
-module foo
+module github.com/ouedkai/yourgame
 
 go 1.19
 
